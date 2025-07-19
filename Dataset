@@ -1,0 +1,346 @@
+﻿Date,County,State,Vehicle Primary Use,Battery Electric Vehicles (BEVs),Plug-In Hybrid Electric Vehicles (PHEVs),Electric Vehicle (EV) Total,Non-Electric Vehicle Total,Total Vehicles,Percent Electric Vehicles
+September 30 2022,Riverside,CA,Passenger,7,0,7,460,467,1.50
+December 31 2022,Prince William,VA,Passenger,1,2,3,188,191,1.57
+January 31 2020,Dakota,MN,Passenger,0,1,1,32,33,3.03
+June 30 2022,Ferry,WA,Truck,0,0,0,"3,575","3,575",0.00
+July 31 2021,Douglas,CO,Passenger,0,1,1,83,84,1.19
+May 31 2018,Maui,HI,Passenger,1,0,1,59,60,1.67
+November 30 2017,Northampton,PA,Passenger,0,1,1,66,67,1.49
+March 31 2018,Nassau,NY,Passenger,1,0,1,37,38,2.63
+March 31 2020,DeKalb,IN,Passenger,1,0,1,1,2,50.00
+January 31 2019,Columbia,WA,Truck,0,0,0,"1,529","1,529",0.00
+February 28 2017,Maui,HI,Passenger,1,0,1,73,74,1.35
+September 30 2017,Orleans,LA,Passenger,0,1,1,45,46,2.17
+December 31 2018,Ramsey,MN,Passenger,1,0,1,41,42,2.38
+November 30 2020,Manassas,VA,Passenger,0,1,1,5,6,16.67
+February 29 2020,Montgomery,AL,Passenger,0,1,1,38,39,2.56
+August 31 2019,Albemarle,VA,Passenger,1,0,1,23,24,4.17
+May 31 2020,Monroe,IL,Passenger,1,0,1,3,4,25.00
+December 31 2021,San Diego,CA,Passenger,17,6,23,"2,541","2,564",0.90
+June 30 2021,Skamania,WA,Truck,0,0,0,"4,026","4,026",0.00
+January 31 2017,Douglas,WA,Truck,0,0,0,"11,425","11,425",0.00
+October 31 2022,Washington,OR,Passenger,1,0,1,296,297,0.34
+December 31 2022,Sarpy,NE,Passenger,1,0,1,57,58,1.72
+February 29 2020,Owyhee,ID,Passenger,1,0,1,3,4,25.00
+June 30 2022,Clinton,PA,Passenger,1,0,1,1,2,50.00
+May 31 2022,Yakima,WA,Truck,0,0,0,"61,408","61,408",0.00
+October 31 2017,Virginia Beach,VA,Passenger,2,1,3,651,654,0.46
+May 31 2020,Sedgwick,KS,Passenger,1,1,2,96,98,2.04
+September 30 2021,Kittitas,WA,Truck,0,0,0,"14,783","14,783",0.00
+April 30 2021,Asotin,WA,Passenger,19,14,33,"12,651","12,684",0.26
+June 30 2021,San Francisco,CA,Passenger,0,1,1,100,101,0.99
+June 30 2017,Charles,MD,Passenger,0,1,1,89,90,1.11
+June 30 2022,Richmond,NY,Passenger,1,0,1,4,5,20.00
+January 31 2022,Carson City,NV,Passenger,1,0,1,9,10,10.00
+July 31 2020,Santa Clara,CA,Passenger,9,2,11,300,311,3.54
+June 30 2021,Harris,TX,Passenger,1,1,2,223,225,0.89
+November 30 2021,King,WA,Truck,6,1,7,"183,257","183,264",0.00
+April 30 2021,Suffolk,VA,Passenger,1,0,1,125,126,0.79
+February 28 2022,Clallam,WA,Truck,1,0,1,"22,088","22,089",0.00
+June 30 2019,Clay,FL,Passenger,0,1,1,88,89,1.12
+March 31 2019,El Paso,TX,Passenger,2,0,2,495,497,0.40
+July 31 2019,Montgomery,MD,Passenger,1,0,1,283,284,0.35
+August 31 2023,Harford,MD,Passenger,1,1,2,42,44,4.55
+October 31 2020,Franklin,WA,Passenger,73,78,151,"61,083","61,234",0.25
+May 31 2022,Burlington,NJ,Passenger,0,2,2,112,114,1.75
+May 31 2022,Kings,NY,Passenger,1,0,1,62,63,1.59
+June 30 2023,Washtenaw,MI,Passenger,0,2,2,21,23,8.70
+April 30 2020,Manassas,VA,Passenger,0,1,1,5,6,16.67
+December 31 2021,Whatcom,WA,Passenger,"1,643",673,"2,316","149,887","152,203",1.52
+September 30 2023,Whitman,WA,Passenger,177,86,263,"21,953","22,216",1.18
+March 31 2021,Stevens,WA,Passenger,38,43,81,"30,298","30,379",0.27
+April 30 2019,Douglas,WA,Passenger,55,34,89,"27,968","28,057",0.32
+January 31 2018,Benton,WA,Passenger,175,179,354,"130,615","130,969",0.27
+May 31 2020,Kern,CA,Passenger,0,1,1,228,229,0.44
+October 31 2021,Kittitas,WA,Truck,0,0,0,"14,774","14,774",0.00
+December 31 2021,Grant,WA,Truck,0,0,0,"27,988","27,988",0.00
+June 30 2020,Nueces,TX,Passenger,1,0,1,80,81,1.23
+September 30 2023,Kings,CA,Passenger,2,2,4,264,268,1.49
+April 30 2017,Jackson,MO,Passenger,1,0,1,70,71,1.41
+April 30 2023,Polk,OR,Passenger,1,1,2,15,17,11.76
+August 31 2019,Powhatan,VA,Passenger,1,0,1,1,2,50.00
+February 28 2019,Anne Arundel,MD,Passenger,0,1,1,441,442,0.23
+March 31 2022,Pacific,WA,Passenger,61,68,129,"15,987","16,116",0.80
+February 28 2019,San Mateo,CA,Passenger,2,1,3,131,134,2.24
+April 30 2021,Ventura,CA,Passenger,1,2,3,276,279,1.08
+January 31 2021,Klamath,OR,Passenger,1,0,1,33,34,2.94
+June 30 2018,Hamilton,IN,Passenger,1,0,1,46,47,2.13
+March 31 2023,Meade,KY,Passenger,1,0,1,18,19,5.26
+January 31 2024,Placer,CA,Passenger,1,0,1,51,52,1.92
+September 30 2020,Larimer,CO,Passenger,1,0,1,50,51,1.96
+March 31 2017,Clallam,WA,Passenger,77,65,142,"48,077","48,219",0.29
+December 31 2023,Clallam,WA,Truck,29,0,29,"21,315","21,344",0.14
+December 31 2017,Kittitas,WA,Truck,0,0,0,"13,805","13,805",0.00
+November 30 2019,Fairbanks North Star,AK,Passenger,0,1,1,97,98,1.02
+July 31 2022,Clark,WA,Truck,9,0,9,"82,497","82,506",0.01
+December 31 2018,Bexar,TX,Passenger,3,4,7,717,724,0.97
+April 30 2018,Manatee,FL,Passenger,1,0,1,38,39,2.56
+July 31 2023,Washtenaw,MI,Passenger,0,2,2,20,22,9.09
+May 31 2023,Williamson,TX,Passenger,0,1,1,53,54,1.85
+May 31 2021,Flathead,MT,Passenger,1,0,1,51,52,1.92
+July 31 2018,Lumpkin,GA,Passenger,1,0,1,7,8,12.50
+August 31 2021,Stevens,WA,Passenger,48,44,92,"30,264","30,356",0.30
+June 30 2018,Clark,WA,Truck,0,0,0,"79,115","79,115",0.00
+June 30 2023,Mason,WA,Truck,11,0,11,"20,726","20,737",0.05
+December 31 2019,King,WA,Truck,6,1,7,"182,187","182,194",0.00
+August 31 2022,Providence,RI,Passenger,1,0,1,21,22,4.55
+July 31 2017,Hardin,KY,Passenger,0,1,1,116,117,0.85
+November 30 2021,Charleston,SC,Passenger,2,1,3,85,88,3.41
+November 30 2021,Santa Cruz,CA,Passenger,1,0,1,27,28,3.57
+April 30 2021,Hawaii,HI,Passenger,1,0,1,54,55,1.82
+June 30 2020,Hamilton,IN,Passenger,1,0,1,42,43,2.33
+September 30 2022,Kootenai,ID,Truck,1,0,1,35,36,2.78
+May 31 2021,Sumter,FL,Passenger,0,1,1,10,11,9.09
+October 31 2020,Dallas,IA,Passenger,0,1,1,10,11,9.09
+April 30 2018,Lake,CA,Passenger,0,1,1,8,9,11.11
+May 31 2017,DeKalb,IN,Passenger,1,0,1,1,2,50.00
+October 31 2020,Yakima,WA,Passenger,158,122,280,"166,853","167,133",0.17
+October 31 2019,Spokane,WA,Passenger,615,464,"1,079","314,266","315,345",0.34
+December 31 2022,Los Angeles,CA,Passenger,4,6,10,747,757,1.32
+November 30 2020,Maricopa,AZ,Passenger,5,9,14,"1,424","1,438",0.97
+November 30 2021,Burlington,NJ,Passenger,0,1,1,121,122,0.82
+October 31 2022,Solano,CA,Passenger,2,0,2,157,159,1.26
+October 31 2017,Gwinnett,GA,Passenger,0,1,1,88,89,1.12
+October 31 2021,Montgomery,PA,Passenger,2,0,2,24,26,7.69
+February 28 2017,Madison,ID,Passenger,1,0,1,44,45,2.22
+July 31 2022,Columbia,OR,Passenger,1,0,1,17,18,5.56
+August 31 2021,Snohomish,WA,Truck,1,0,1,"125,976","125,977",0.00
+September 30 2017,Lewis,WA,Passenger,53,40,93,"56,024","56,117",0.17
+June 30 2023,Garfield,WA,Passenger,1,3,4,"1,304","1,308",0.31
+July 31 2019,Walla Walla,WA,Passenger,52,61,113,"36,204","36,317",0.31
+August 31 2020,Skamania,WA,Passenger,31,21,52,"8,370","8,422",0.62
+May 31 2018,St. Clair,IL,Passenger,0,1,1,156,157,0.64
+December 31 2019,Bexar,TX,Passenger,0,5,5,669,674,0.74
+June 30 2020,,,Passenger,6,1,7,387,394,1.78
+March 31 2022,Sarpy,NE,Passenger,1,0,1,63,64,1.56
+September 30 2022,Allen,IN,Passenger,1,0,1,18,19,5.26
+January 31 2023,Bryan,GA,Passenger,0,1,1,33,34,2.94
+June 30 2018,Adams,WA,Truck,0,0,0,"5,163","5,163",0.00
+January 31 2019,Clark,WA,Truck,0,0,0,"79,956","79,956",0.00
+May 31 2017,Jefferson,WA,Passenger,103,59,162,"23,819","23,981",0.68
+April 30 2023,Kittitas,WA,Truck,8,0,8,"14,540","14,548",0.05
+September 30 2017,Alameda,CA,Passenger,0,1,1,356,357,0.28
+March 31 2022,Skagit,WA,Passenger,730,326,"1,056","90,428","91,484",1.15
+June 30 2022,Escambia,FL,Passenger,0,1,1,144,145,0.69
+September 30 2020,Walla Walla,WA,Truck,0,0,0,"13,788","13,788",0.00
+May 31 2019,Cook,IL,Passenger,1,0,1,248,249,0.40
+December 31 2017,Montgomery,PA,Passenger,1,0,1,39,40,2.50
+January 31 2021,Columbia,OR,Passenger,1,0,1,24,25,4.00
+July 31 2020,Asotin,WA,Passenger,16,12,28,"12,375","12,403",0.23
+November 30 2017,Columbia,WA,Truck,0,0,0,"1,538","1,538",0.00
+September 30 2020,Garfield,WA,Truck,0,0,0,985,985,0.00
+January 31 2017,Pima,AZ,Passenger,0,2,2,477,479,0.42
+June 30 2020,Williams,ND,Passenger,0,1,1,11,12,8.33
+February 28 2023,Lee,AL,Passenger,1,0,1,14,15,6.67
+September 30 2021,Meade,KY,Passenger,1,0,1,25,26,3.85
+April 30 2023,Dorchester,SC,Passenger,1,0,1,51,52,1.92
+May 31 2022,Leavenworth,KS,Passenger,0,1,1,104,105,0.95
+October 31 2022,Fairfax,VA,Passenger,7,3,10,617,627,1.59
+March 31 2023,Norfolk,VA,Passenger,3,2,5,280,285,1.75
+September 30 2017,Portsmouth,VA,Passenger,0,1,1,64,65,1.54
+December 31 2022,San Juan,WA,Passenger,559,170,729,"13,892","14,621",4.99
+March 31 2023,Prince William,VA,Passenger,1,2,3,174,177,1.69
+November 30 2022,Portsmouth,VA,Passenger,0,1,1,82,83,1.20
+January 31 2022,Spartanburg,SC,Passenger,0,1,1,48,49,2.04
+December 31 2022,Anne Arundel,MD,Passenger,3,3,6,311,317,1.89
+October 31 2019,Douglas,NE,Passenger,0,1,1,61,62,1.61
+November 30 2018,Brevard,FL,Passenger,0,1,1,97,98,1.02
+July 31 2022,Las Animas,CO,Passenger,1,0,1,1,2,50.00
+November 30 2022,Okanogan,WA,Truck,2,0,2,"16,455","16,457",0.01
+June 30 2020,Columbia,WA,Truck,0,0,0,"1,531","1,531",0.00
+January 31 2022,Calvert,MD,Passenger,0,2,2,81,83,2.41
+March 31 2022,Multnomah,OR,Passenger,1,4,5,601,606,0.83
+June 30 2021,Marion,IA,Passenger,1,0,1,1,2,50.00
+November 30 2020,Washoe,NV,Passenger,1,0,1,108,109,0.92
+November 30 2019,Suffolk,MA,Passenger,0,1,1,37,38,2.63
+July 31 2021,Carroll,NH,Passenger,0,1,1,5,6,16.67
+April 30 2023,Middlesex,NJ,Passenger,1,0,1,18,19,5.26
+December 31 2021,Island,WA,Truck,0,0,0,"21,488","21,488",0.00
+April 30 2019,Kootenai,ID,Passenger,1,1,2,216,218,0.92
+May 31 2019,Grant,WA,Passenger,39,59,98,"64,554","64,652",0.15
+August 31 2022,Berkeley,SC,Passenger,0,1,1,117,118,0.85
+October 31 2019,Lee,FL,Passenger,1,0,1,53,54,1.85
+July 31 2021,Larimer,CO,Passenger,1,0,1,49,50,2.00
+February 28 2019,San Francisco,CA,Passenger,2,1,3,119,122,2.46
+September 30 2022,Charleston,SC,Passenger,2,2,4,65,69,5.80
+July 31 2020,Ulster,NY,Passenger,1,0,1,12,13,7.69
+October 31 2019,Osceola,FL,Passenger,1,0,1,41,42,2.38
+March 31 2023,Hamilton,OH,Truck,1,0,1,3,4,25.00
+June 30 2021,Randolph,NC,Passenger,1,0,1,8,9,11.11
+October 31 2021,Snohomish,WA,Passenger,"6,649","2,195","8,844","538,559","547,403",1.62
+October 31 2022,Jefferson,WA,Passenger,465,225,690,"24,396","25,086",2.75
+June 30 2022,Douglas,WA,Truck,0,0,0,"12,783","12,783",0.00
+June 30 2022,Duval,FL,Passenger,0,2,2,290,292,0.68
+October 31 2023,Lane,OR,Passenger,0,2,2,58,60,3.33
+July 31 2017,Multnomah,OR,Passenger,1,3,4,953,957,0.42
+August 31 2018,San Mateo,CA,Passenger,1,1,2,137,139,1.44
+June 30 2020,Kitsap,WA,Truck,0,0,0,"54,049","54,049",0.00
+April 30 2021,Suffolk,MA,Passenger,0,2,2,34,36,5.56
+February 28 2023,Sumter,SC,Passenger,0,1,1,37,38,2.63
+June 30 2021,Ulster,NY,Passenger,1,0,1,13,14,7.14
+June 30 2019,Putnam,TN,Passenger,0,1,1,3,4,25.00
+August 31 2023,Hamilton,OH,Truck,1,0,1,3,4,25.00
+January 31 2022,Randolph,NC,Passenger,1,0,1,6,7,14.29
+April 30 2023,Lane,OR,Passenger,0,2,2,82,84,2.38
+November 30 2017,Riverside,CA,Passenger,1,2,3,744,747,0.40
+May 31 2019,Chelan,WA,Truck,0,0,0,"22,241","22,241",0.00
+August 31 2020,Franklin,WA,Truck,0,0,0,"20,182","20,182",0.00
+March 31 2020,Denver,CO,Passenger,1,0,1,124,125,0.80
+May 31 2023,Yolo,CA,Passenger,1,0,1,22,23,4.35
+April 30 2023,Fairbanks North Star,AK,Passenger,0,1,1,52,53,1.89
+April 30 2020,Juneau,AK,Passenger,0,2,2,31,33,6.06
+July 31 2020,Grays Harbor,WA,Passenger,109,112,221,"48,275","48,496",0.46
+April 30 2017,Multnomah,OR,Passenger,0,3,3,"1,068","1,071",0.28
+August 31 2018,Portsmouth,VA,Passenger,0,1,1,76,77,1.30
+February 29 2024,Kitsap,WA,Truck,119,0,119,"49,928","50,047",0.24
+December 31 2018,Grays Harbor,WA,Truck,0,0,0,"20,354","20,354",0.00
+July 31 2017,San Juan,WA,Truck,0,0,0,"5,545","5,545",0.00
+January 31 2022,Benton,WA,Passenger,652,453,"1,105","135,875","136,980",0.81
+April 30 2019,Palm Beach,FL,Passenger,0,2,2,90,92,2.17
+June 30 2022,San Luis Obispo,CA,Passenger,1,0,1,60,61,1.64
+October 31 2023,Polk,OR,Passenger,1,1,2,12,14,14.29
+February 28 2023,Maui,HI,Passenger,1,0,1,24,25,4.00
+February 28 2023,Harford,MD,Passenger,1,1,2,42,44,4.55
+October 31 2019,Clallam,WA,Truck,1,0,1,"21,840","21,841",0.00
+November 30 2017,Thurston,WA,Truck,0,0,0,"53,690","53,690",0.00
+December 31 2020,Charles,MD,Passenger,1,1,2,74,76,2.63
+April 30 2022,York,VA,Passenger,1,0,1,91,92,1.09
+November 30 2023,Newport News,VA,Passenger,1,0,1,95,96,1.04
+July 31 2019,Middlesex,MA,Passenger,1,1,2,115,117,1.71
+December 31 2022,Maui,HI,Passenger,1,0,1,27,28,3.57
+August 31 2019,Lee,FL,Passenger,1,0,1,51,52,1.92
+May 31 2023,Marion,IA,Passenger,1,0,1,0,1,100.00
+January 31 2017,Skamania,WA,Passenger,7,7,14,"8,547","8,561",0.16
+May 31 2018,Riverside,CA,Passenger,2,2,4,702,706,0.57
+May 31 2021,Asotin,WA,Passenger,19,14,33,"12,692","12,725",0.26
+August 31 2018,Riverside,CA,Passenger,2,2,4,691,695,0.58
+March 31 2019,Pacific,WA,Passenger,23,26,49,"15,845","15,894",0.31
+July 31 2017,Lewis,WA,Truck,0,0,0,"24,920","24,920",0.00
+May 31 2023,Onslow,NC,Passenger,0,1,1,147,148,0.68
+April 30 2023,Allen,IN,Passenger,1,0,1,15,16,6.25
+October 31 2022,Parker,TX,Passenger,0,1,1,20,21,4.76
+April 30 2020,Putnam,TN,Passenger,0,1,1,3,4,25.00
+September 30 2022,Ray,MO,Passenger,0,1,1,1,2,50.00
+March 31 2022,DeKalb,GA,Passenger,1,0,1,56,57,1.75
+November 30 2020,Asotin,WA,Passenger,17,14,31,"12,404","12,435",0.25
+April 30 2021,Sedgwick,KS,Passenger,1,1,2,91,93,2.15
+January 31 2020,Douglas,WA,Passenger,69,39,108,"28,362","28,470",0.38
+January 31 2022,Thurston,WA,Truck,3,0,3,"55,866","55,869",0.01
+July 31 2022,Kitsap,WA,Truck,13,0,13,"53,331","53,344",0.02
+October 31 2017,Los Angeles,CA,Passenger,4,2,6,"1,246","1,252",0.48
+July 31 2023,Alexandria,VA,Passenger,3,1,4,85,89,4.49
+August 31 2019,Jefferson,NY,Passenger,0,2,2,219,221,0.90
+December 31 2021,Platte,MO,Passenger,1,0,1,20,21,4.76
+December 31 2019,Tulsa,OK,Passenger,1,1,2,52,54,3.70
+February 28 2018,Marin,CA,Passenger,1,0,1,55,56,1.79
+October 31 2023,Lincoln,OR,Passenger,0,1,1,13,14,7.14
+August 31 2019,Okanogan,WA,Truck,0,0,0,"16,475","16,475",0.00
+April 30 2017,Lewis,WA,Truck,0,0,0,"24,804","24,804",0.00
+September 30 2020,Kittitas,WA,Passenger,113,48,161,"29,697","29,858",0.54
+November 30 2021,Harnett,NC,Passenger,1,1,2,170,172,1.16
+February 29 2020,Tarrant,TX,Passenger,3,0,3,191,194,1.55
+June 30 2018,Dallas,TX,Passenger,0,1,1,197,198,0.51
+November 30 2020,Jefferson,NY,Passenger,0,1,1,211,212,0.47
+December 31 2021,Boone,MO,Passenger,0,1,1,11,12,8.33
+February 28 2023,Franklin,WA,Passenger,275,128,403,"61,826","62,229",0.65
+March 31 2019,Pacific,WA,Truck,0,0,0,"7,651","7,651",0.00
+July 31 2017,San Juan,WA,Passenger,112,39,151,"13,560","13,711",1.10
+October 31 2019,Lewis,WA,Truck,0,0,0,"26,042","26,042",0.00
+September 30 2021,Monterey,CA,Passenger,0,3,3,153,156,1.92
+February 28 2017,Yakima,WA,Truck,0,0,0,"57,222","57,222",0.00
+March 31 2023,Franklin,WA,Passenger,285,131,416,"61,876","62,292",0.67
+October 31 2018,Mecklenburg,NC,Passenger,1,0,1,81,82,1.22
+March 31 2019,Hardin,KY,Passenger,0,1,1,97,98,1.02
+April 30 2022,Howard,MD,Passenger,0,2,2,66,68,2.94
+January 31 2024,Montgomery,OH,Passenger,0,1,1,35,36,2.78
+February 28 2022,Hamilton,IN,Passenger,2,0,2,25,27,7.41
+July 31 2022,Oldham,KY,Passenger,0,1,1,4,5,20.00
+October 31 2020,Fairbanks North Star,AK,Passenger,0,1,1,95,96,1.04
+September 30 2021,Benton,WA,Passenger,579,414,993,"136,200","137,193",0.72
+January 31 2017,Dallas,TX,Passenger,1,0,1,232,233,0.43
+August 31 2023,Snohomish,WA,Truck,198,0,198,"121,099","121,297",0.16
+December 31 2020,Utah,UT,Passenger,0,1,1,131,132,0.76
+December 31 2018,Volusia,FL,Passenger,0,1,1,40,41,2.44
+January 31 2024,Yuba,CA,Passenger,1,0,1,43,44,2.27
+May 31 2021,Ulster,NY,Passenger,1,0,1,13,14,7.14
+February 28 2017,Sumter,FL,Passenger,0,1,1,10,11,9.09
+December 31 2022,Orange,NC,Passenger,0,1,1,6,7,14.29
+October 31 2020,Jones,GA,Passenger,1,0,1,1,2,50.00
+December 31 2022,Contra Costa,CA,Passenger,0,3,3,211,214,1.40
+June 30 2020,Clallam,WA,Truck,1,0,1,"21,754","21,755",0.00
+February 28 2019,Goochland,VA,Passenger,1,1,2,247,249,0.80
+October 31 2018,Portsmouth,VA,Passenger,0,1,1,78,79,1.27
+August 31 2022,Los Angeles,CA,Passenger,5,7,12,793,805,1.49
+December 31 2019,DuPage,IL,Passenger,3,0,3,66,69,4.35
+November 30 2022,Broward,FL,Passenger,1,0,1,75,76,1.32
+February 28 2019,Hennepin,MN,Passenger,2,0,2,103,105,1.90
+April 30 2019,Guadalupe,TX,Passenger,1,0,1,81,82,1.22
+October 31 2022,Marin,CA,Passenger,1,1,2,30,32,6.25
+November 30 2017,Hamilton,TN,Passenger,1,0,1,21,22,4.55
+February 29 2024,Rockdale,GA,Passenger,1,0,1,5,6,16.67
+March 31 2023,Contra Costa,CA,Passenger,0,3,3,201,204,1.47
+January 31 2023,Klickitat,WA,Passenger,127,53,180,"15,154","15,334",1.17
+December 31 2022,Franklin,WA,Passenger,252,120,372,"61,694","62,066",0.60
+September 30 2023,Garfield,WA,Truck,0,0,0,973,973,0.00
+March 31 2019,Grays Harbor,WA,Truck,0,0,0,"20,375","20,375",0.00
+July 31 2018,Portsmouth,VA,Passenger,0,1,1,73,74,1.35
+February 28 2023,Kern,CA,Passenger,1,1,2,200,202,0.99
+June 30 2020,Saginaw,MI,Passenger,1,0,1,12,13,7.69
+June 30 2017,Sedgwick,KS,Passenger,0,1,1,112,113,0.88
+September 30 2019,Sangamon,IL,Passenger,1,0,1,6,7,14.29
+June 30 2020,Hillsborough,FL,Passenger,0,1,1,182,183,0.55
+November 30 2020,Portsmouth,VA,Passenger,0,1,1,80,81,1.23
+August 31 2020,Pend Oreille,WA,Passenger,8,5,13,"9,227","9,240",0.14
+December 31 2022,Kern,CA,Passenger,1,1,2,203,205,0.98
+October 31 2018,Dakota,MN,Passenger,0,2,2,33,35,5.71
+September 30 2022,Bell,TX,Passenger,1,0,1,319,320,0.31
+August 31 2021,Contra Costa,CA,Passenger,2,4,6,258,264,2.27
+November 30 2019,Stafford,VA,Passenger,1,1,2,99,101,1.98
+May 31 2023,Palm Beach,FL,Passenger,1,1,2,47,49,4.08
+May 31 2022,St. Clair,IL,Passenger,1,0,1,122,123,0.81
+April 30 2018,DeKalb,GA,Passenger,1,0,1,85,86,1.16
+September 30 2022,Meade,KY,Passenger,1,0,1,21,22,4.55
+May 31 2022,Hennepin,MN,Passenger,2,0,2,58,60,3.33
+November 30 2023,Allen,IN,Passenger,1,0,1,9,10,10.00
+February 28 2023,Orange,NC,Passenger,0,1,1,6,7,14.29
+August 31 2017,Grays Harbor,WA,Truck,0,0,0,"19,932","19,932",0.00
+January 31 2017,Garfield,WA,Passenger,0,0,0,"1,285","1,285",0.00
+February 28 2022,Solano,CA,Passenger,1,0,1,174,175,0.57
+January 31 2019,Ada,ID,Passenger,0,2,2,322,324,0.62
+April 30 2022,Gwinnett,GA,Passenger,1,0,1,53,54,1.85
+September 30 2017,DeKalb,IN,Passenger,1,0,1,1,2,50.00
+July 31 2017,Ferry,WA,Passenger,1,1,2,"4,402","4,404",0.05
+January 31 2018,Clay,FL,Passenger,0,1,1,105,106,0.94
+March 31 2020,Portsmouth,VA,Passenger,0,1,1,78,79,1.27
+August 31 2020,Yakima,WA,Truck,0,0,0,"60,415","60,415",0.00
+July 31 2020,Spartanburg,SC,Passenger,0,1,1,49,50,2.00
+July 31 2021,Houston,GA,Passenger,1,0,1,46,47,2.13
+December 31 2023,New London,CT,Passenger,2,2,4,148,152,2.63
+November 30 2023,Houston,GA,Passenger,1,0,1,27,28,3.57
+November 30 2023,Middlesex,NJ,Passenger,1,0,1,18,19,5.26
+February 28 2022,Shelby,OH,Passenger,0,1,1,3,4,25.00
+March 31 2021,Randolph,NC,Passenger,1,0,1,8,9,11.11
+March 31 2023,Orange,NC,Passenger,0,1,1,6,7,14.29
+December 31 2018,Pierce,WA,Passenger,"1,509","1,373","2,882","538,762","541,644",0.53
+December 31 2018,Walla Walla,WA,Truck,0,0,0,"13,524","13,524",0.00
+June 30 2023,Pulaski,AR,Passenger,3,0,3,17,20,15.00
+October 31 2023,Okanogan,WA,Passenger,146,74,220,"25,965","26,185",0.84
+March 31 2022,Moore,NC,Passenger,0,1,1,125,126,0.79
+March 31 2019,Broward,FL,Passenger,2,1,3,128,131,2.29
+December 31 2023,Salt Lake,UT,Passenger,1,1,2,83,85,2.35
+January 31 2023,Loudoun,VA,Passenger,3,2,5,60,65,7.69
+February 29 2024,Walla Walla,WA,Passenger,272,141,413,"34,269","34,682",1.19
+August 31 2018,Whitman,WA,Passenger,20,30,50,"22,675","22,725",0.22
+September 30 2021,Orange,CA,Passenger,5,2,7,431,438,1.60
+October 31 2020,Thurston,WA,Truck,0,0,0,"56,289","56,289",0.00
+February 29 2020,Jefferson,CO,Passenger,0,1,1,59,60,1.67
+November 30 2023,Maui,HI,Passenger,1,0,1,20,21,4.76
+June 30 2020,Island,WA,Truck,1,0,1,"21,194","21,195",0.00
+January 31 2020,Okanogan,WA,Passenger,32,30,62,"26,214","26,276",0.24
+May 31 2017,Sumter,FL,Passenger,0,1,1,10,11,9.09
+February 28 2021,Okanogan,WA,Truck,0,0,0,"16,621","16,621",0.00
+January 31 2019,Manatee,FL,Passenger,1,0,1,37,38,2.63
+December 31 2021,Allegheny,PA,Passenger,1,1,2,67,69,2.90
+May 31 2019,Wilson,TX,Passenger,0,1,1,7,8,12.50
+May 31 2018,Hamilton,IN,Passenger,1,0,1,46,47,2.13
+Ap
